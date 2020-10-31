@@ -1,5 +1,5 @@
 {
-  "Users" : {
+  "Users" : [
     "BmIvK8Ni9pbkHt8wTpjf9c2dSTX2" : {
       "FCM Token" : "cR4F0K77QDyI4FDoLELXK0:APA91bGpRoWWs0bh1M9o_UMdwDWDBMn9dgdRXPFyetOVr1i2Np5znGhoRBUURKatKwb_8lNJjEuFbCwhdG0AsNx7iIfFRz1QWWnJ_IU4XfiSOc5C-m6oHzzIDAQzEswkGlzWjToQ0R9x",
       "email" : "minhtranquang.mcd@gmail.com",
@@ -27,5 +27,5 @@
       "name" : "Airi Satou",
       "photoUrl" : "http://graph.facebook.com/67563683055/picture?type=normal"
     }    
-  }
+  ]
 }  
